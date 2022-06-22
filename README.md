@@ -1,4 +1,4 @@
-# Hallo, I'm Flip Van de Voort - aka <a href="https://f.voort.me" target="_blank">f.voort</a>
+# Hallo, I'm Flip Van de Voort - aka <a href="https://f.voort.me" target="_blank" rel="noopener noreferrer">f.voort</a>
 
 ## I'm a creative designer from the Netherlands currently learning more about web development.
 
