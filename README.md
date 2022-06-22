@@ -1,16 +1,27 @@
-### Hi there 👋
+<style>
+  #memoji {
+  height: 1em;
+  margin-bottom: -6px;
+  }
+</style>
 
-<!--
-**fvoort/fvoort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hallo, I'm Flip Van de Voort - aka <a href="https://f.voort.me">f.voort</a> <img id="memoji" src="static/Memoji.png" alt="3d avatar of  Flip Van de Voort">
 
-Here are some ideas to get you started:
+## I'm a creative designer from the Netherlands currently learning more about web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 👯 I’m looking for a job in design or marketing
+- ⚡ Fun fact: I made my first photoshop project when I was 8
+
+### Connect with me:
+
+[![website](./static/icon/globe-light.svg)](https://f.voort.me#gh-light-mode-only)
+[![website](./static/icon/globe-dark.svg)](https://f.voort.me#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./static/icon/linkedin-light.svg)](https://linkedin.com/in/fvoort#gh-light-mode-only)
+[![linkedin](./static/icon/linkedin-dark.svg)](https://linkedin.com/in/fvoort#gh-dark-mode-only)
+
+[website]: https://f.voort.me
+[youtube]: https://youtube.com/fvoort0
+[instagram]: https://instagram.com/f.voort
+[linkedin]: https://linkedin.com/in/fvoort
