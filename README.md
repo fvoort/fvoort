@@ -1,11 +1,4 @@
-<style>
-  #memoji {
-  height: 1em;
-  margin-bottom: -6px;
-  }
-</style>
-
-# Hallo, I'm Flip Van de Voort - aka <a href="https://f.voort.me">f.voort</a> <img id="memoji" src="static/Memoji.png" alt="3d avatar of  Flip Van de Voort">
+# Hallo, I'm Flip Van de Voort - aka <a href="https://f.voort.me">f.voort</a>
 
 ## I'm a creative designer from the Netherlands currently learning more about web development.
 
