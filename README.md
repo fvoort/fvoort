@@ -2,7 +2,7 @@
 
 ## I'm a creative designer from the Netherlands currently learning more about web development.
 
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 🌱 I’m currently learning Computer science & Web development
 - 👯 I’m looking for a job in design or marketing
 - ⚡ Fun fact: I made my first photoshop project when I was 8
 
