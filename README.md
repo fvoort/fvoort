@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Computer science & Web development
 - 👯 I’m looking for a job in design or marketing
-- ⚡ Fun fact: I made my first photoshop project when I was 8
+- ⚡ Fun fact: When I was 12 I made money by selling ranks on my Minecraft server
 
 ### Connect with me:
 
